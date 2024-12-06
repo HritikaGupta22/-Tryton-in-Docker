@@ -22,3 +22,4 @@ docker run --name tryton -p 8000:8000 --link tryton-postgres:postgres -e DB_PASS
 ```
 
 ## Video
+https://github.com/user-attachments/assets/d73feaac-c2a5-4441-8f7a-191b86d7079a
